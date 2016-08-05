@@ -1,0 +1,38 @@
+_repo: Through-the-Eye-of-the-Needle--A-Romance_8295
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: This 1907 utopian romance is the final volume in the trilogy that includes
+  A traveler from Alturia (1894) and Letters of an Alturian traveler (1904). The novel
+  takes the form of letters from the protagonist, Aristides Homos, to his friend Cyril.
+  In New York City, Homos falls in love with Evelith Strange, a socialite whose lifestyle
+  conflicts with her Christian values values that Homos could help her regain back
+  in utopian Alturia, if she accepts his offer to go.
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social conditions -- 1865-1918 -- Fiction'
+- !lcsh 'Utopias -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Utopian fiction'
+- !lcsh 'Epistolary fiction'
+- GITenberg
+title: 'Through the Eye of the Needle: A Romance'
+url: http://www.gutenberg.org/ebooks/8295
