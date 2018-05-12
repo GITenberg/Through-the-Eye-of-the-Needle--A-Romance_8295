@@ -1,5 +1,8 @@
 _repo: Through-the-Eye-of-the-Needle--A-Romance_8295
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howells, William Dean
@@ -17,6 +20,8 @@ description: This 1907 utopian romance is the final volume in the trilogy that i
   In New York City, Homos falls in love with Evelith Strange, a socialite whose lifestyle
   conflicts with her Christian values values that Homos could help her regain back
   in utopian Alturia, if she accepts his offer to go.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8295#Through-the-Eye-of-the-Needle--A-Romance
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
 identifiers:
